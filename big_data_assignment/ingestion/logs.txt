@@ -1,0 +1,4 @@
+[LOG] Spark started
+[LOG] CSV loaded
+[LOG] Schema inferred
+[LOG] Parquet generated

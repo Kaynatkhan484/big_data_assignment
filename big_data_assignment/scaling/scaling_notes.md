@@ -1,0 +1,1 @@
+Scaling plan: Parquet + partitioning, Spark cluster, Redis caching, ClickHouse/BigQuery.
