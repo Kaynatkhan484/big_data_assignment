@@ -13,15 +13,15 @@ big_data_assignment/
 
 Features Implemented
 
-✅ Environment Setup: Python virtual environment and required dependencies installed
+Environment Setup: Python virtual environment and required dependencies installed
 
-✅ Ingestion Pipeline: PySpark script to generate/process data and save as Parquet files
+Ingestion Pipeline: PySpark script to generate/process data and save as Parquet files
 
-✅ API Layer: FastAPI endpoints to query/filter data efficiently
+API Layer: FastAPI endpoints to query/filter data efficiently
 
-✅ Architecture & Scaling: Documented architecture using Spark, HDFS, Parquet, and partitioning strategies
+Architecture & Scaling: Documented architecture using Spark, HDFS, Parquet, and partitioning strategies
 
-✅ Proof of Skills: Ready to run scripts showing data processing and API fetching
+Proof of Skills: Ready to run scripts showing data processing and API fetching
 
 Optional Advanced Features (Not Implemented)
 
